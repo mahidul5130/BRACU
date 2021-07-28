@@ -18,7 +18,7 @@ myTable.add_row([f"{'-'*20}", f"{'-'*20}", f"{'-'*20}", f"{'-'*20}"])
 
 i=1
 
-while i<=4:
+while Multiplier!=0:
 
     temp = len(str(bin(Multiplier))) - 1
     # print(str(bin(Multiplier))[temp])
